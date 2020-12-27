@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm Alinshans
 
 <!--
 **Alinshans/Alinshans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Alinshans&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alinshans&layout=compact)
+
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Alinshans&repo=MyTinySTL&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
