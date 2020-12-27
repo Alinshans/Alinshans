@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Alinshans&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alinshans&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alinshans&layout=compact&hide=html)
 
 <!--
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Alinshans&repo=MyTinySTL&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
